@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react';
+import React, { useContext } from 'react';
 
 import classes from './Checkout.module.css';
 import useHttp from '../../hooks/use-httpRequest';
